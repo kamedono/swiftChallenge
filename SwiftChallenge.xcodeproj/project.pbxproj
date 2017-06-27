@@ -516,6 +516,7 @@
 				4D072E211F01510400C166C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D072E221F01510400C166C4 /* Build configuration list for PBXNativeTarget "SwiftChallengeTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				4D072E241F01510400C166C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D072E251F01510400C166C4 /* Build configuration list for PBXNativeTarget "SwiftChallengeUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				4D072E271F01510400C166C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
